@@ -2,4 +2,5 @@
  
  1. color 
  2. configuration 
- 3. 
+ 3. typography 
+ 
